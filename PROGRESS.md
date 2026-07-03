@@ -11,22 +11,22 @@ Status Legend:
 
 # 01_Basics
 
-- [ ] README.md
-- [ ] 01_hello_world.py
-- [ ] 02_comments.py
-- [ ] 03_variables.py
-- [ ] 04_data_types.py
-- [ ] 05_type_casting.py
-- [ ] 06_user_input.py
-- [ ] 07_operators.py
-- [ ] 08_strings.py
-- [ ] 09_string_methods.py
-- [ ] 10_f_strings.py
-- [ ] 11_print_formatting.py
-- [ ] 12_constants.py
-- [ ] 13_keywords.py
-- [ ] 14_memory_basics.py
-- [ ] 15_practice.py
+- [x] README.md
+- [x] 01_hello_world.py
+- [x] 02_comments.py
+- [x] 03_variables.py
+- [x] 04_data_types.py
+- [x] 05_type_casting.py
+- [x] 06_user_input.py
+- [x] 07_operators.py
+- [x] 08_strings.py
+- [x] 09_string_methods.py
+- [x] 10_f_strings.py
+- [x] 11_print_formatting.py
+- [x] 12_constants.py
+- [x] 13_keywords.py
+- [x] 14_memory_basics.py
+- [/] 15_practice.py
 
 ---
 
