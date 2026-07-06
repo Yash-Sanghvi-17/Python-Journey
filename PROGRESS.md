@@ -26,7 +26,7 @@ Status Legend:
 - [x] 12_constants.py
 - [x] 13_keywords.py
 - [x] 14_memory_basics.py
-- [/] 15_practice.py
+- [x] 15_practice.py
 
 ---
 
